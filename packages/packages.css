@@ -110,7 +110,7 @@ main {
   }
 }
 
-@media (min-width: 1500px) {
+@media (min-width: 40rem) {
   .package {
     margin: 3rem auto;
     border-left: 4px solid #0e4f1f;
