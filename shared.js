@@ -43,14 +43,14 @@ toggleButton.addEventListener('click', function() {
   backdrop.classList.add('open');
 });
 
-ctaButton.addEventListener('animationstart', function(event) {
-  console.log('Animation started', event);
-});
+// ctaButton.addEventListener('animationstart', function(event) {
+//   console.log('Animation started', event);
+// });
 
-ctaButton.addEventListener('animationend', function (event) {
-  console.log('Animation ended', event);
-});
+// ctaButton.addEventListener('animationend', function (event) {
+//   console.log('Animation ended', event);
+// });
 
-ctaButton.addEventListener('animationiteration', function (event) {
-  console.log('Animation iteration', event);
-});
+// ctaButton.addEventListener('animationiteration', function (event) {
+//   console.log('Animation iteration', event);
+// });
